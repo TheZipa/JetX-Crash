@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6d40ca45dd4c14a6b396ff010cdd7d, type: 3}
+  m_Name: Aviator Prefabs
+  m_EditorClassIdentifier: 
+  RootCanvasPrefab: {fileID: 8927380304441350616, guid: efeb605ad619d42f381fcfed58221056, type: 3}
+  SettingsViewPrefab: {fileID: 7259608848415153135, guid: 8e930114528ba492c9a0f5fd76975fe9, type: 3}
+  SoundSwitcherPrefab: {fileID: 5491100864248842891, guid: 223a7b15f0f144e9fbc3ceee13762308, type: 3}
+  MainMenuViewPrefab: {fileID: 1077567726431941493, guid: 5c906a69f45a647a58117c8280f8343f, type: 3}
+  TopPanelViewPrefab: {fileID: 2263593582733481353, guid: c0aa100a142ec406095f0d6ba2fc6f5b, type: 3}
+  HistoryPointTextPrefab: {fileID: 5943239917557257431, guid: 71be7bb26aca64077992c0976f10e594, type: 3}
+  BetPanelViewPrefab: {fileID: 7827916043687856514, guid: 01f1f0e484ccc470ba4153d86b8ecc98, type: 3}
+  WinPopUpPrefab: {fileID: 5969515148948393189, guid: 5c189ac7865d44ba4b2dc55866b7642d, type: 3}
+  PlaneViewPrefab: {fileID: 5174509221500720537, guid: 5ad2e2abdaa224c528a8375dca2a4428, type: 3}
+  FieldPrefab: {fileID: 6157479278204492657, guid: c5bbb418eaf65428dba6b9442db24c24, type: 3}
+  FieldTextPrefab: {fileID: 7431923917240506513, guid: 75ef156cb02b447dd9121f915e8c6666, type: 3}
+  StatisticsScreenViewPrefab: {fileID: 8382714392352989700, guid: 61e3a53e00bbe4bdea61365623a68a8c, type: 3}
+  StatisticElementViewPrefab: {fileID: 8397977648996016795, guid: 42554fab285054c1398eb53061a72614, type: 3}
